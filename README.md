@@ -4,7 +4,7 @@
 The aim of this task is to analyze and visualize sentiment trends in social media data to gain insights into public opinion and attitudes towards specific topics or brands.
 
 ## Dataset
-[Twitter Sentiment Analysis Dataset]()
+[Twitter Sentiment Analysis Dataset](twitter_training.csv).
 
 ### Overview
 This dataset focuses on entity-level sentiment analysis derived from Twitter. Each entry includes a message associated with a particular entity, with the goal of determining the sentiment expressed towards that entity. The dataset is categorized into three sentiment classes: Positive, Negative, and Neutral. Messages that are irrelevant to the entity are classified as Neutral.
@@ -22,8 +22,8 @@ From the insights gathered through the Twitter sentiment analysis, several signi
 
 In summary, the sentiment analysis provides valuable insights into the prevailing opinions and attitudes within the Twitter community regarding various topics. While negative sentiments appear to be more common overall, a diverse range of sentiments is expressed across different subjects.
 
-Contact Information
+## Contact Information
 For any questions or feedback related to this project, please feel free to reach out to me:
 
-Anushka Kadam
+**Anushka Kadam**  
 Email: anushkapkadam@gmail.com
